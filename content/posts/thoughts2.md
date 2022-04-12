@@ -1,6 +1,6 @@
 ---
-title: "Thoughts on Moving Back Home"
-date: 2022-04-13T23:33:11-07:00
+title: "Some More Thoughts"
+date: 2022-04-15T23:33:11-07:00
 draft: false
 ---
 
@@ -20,4 +20,6 @@ some text
 
 > Here's a quote. -->
 
-Some text
+## My Thoughts
+
+Some *other* text
