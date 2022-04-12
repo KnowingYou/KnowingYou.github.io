@@ -22,4 +22,6 @@ some text
 
 ## My Thoughts
 
+### Some More
+
 Some *other* text
