@@ -1,4 +1,5 @@
 baseURL: https://chruwus77.github.io/
 languageCode: en-us
 title: Chris Wu
+subtitle: A tiny bio
 theme: "hugo-PaperMod"
